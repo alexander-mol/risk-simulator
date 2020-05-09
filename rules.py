@@ -1,0 +1,1 @@
+CARD_BONUS = 10
